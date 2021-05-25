@@ -1,0 +1,26 @@
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.exe
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.deps.json
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.runtimeconfig.json
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.runtimeconfig.dev.json
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.dll
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.pdb
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.csprojAssemblyReference.cache
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.AssemblyInfoInputs.cache
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.AssemblyInfo.cs
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.csproj.CoreCompileInputs.cache
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.dll
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.pdb
+C:\Users\ocono\source\repos\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.genruntimeconfig.cache
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.exe
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.deps.json
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.runtimeconfig.json
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.runtimeconfig.dev.json
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.dll
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\bin\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.pdb
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.csprojAssemblyReference.cache
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.AssemblyInfoInputs.cache
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.AssemblyInfo.cs
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.csproj.CoreCompileInputs.cache
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.dll
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.pdb
+C:\Users\ocono\source\repos\00. Labs\GC_Lab16CountriesIO_5.24.21\GC_Lab16CountriesIO_5.24.21\obj\Debug\netcoreapp3.1\GC_Lab16CountriesIO_5.24.21.genruntimeconfig.cache
