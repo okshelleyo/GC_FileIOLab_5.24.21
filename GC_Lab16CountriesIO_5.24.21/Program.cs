@@ -14,13 +14,11 @@ namespace GC_Lab16CountriesIO_5._24._21
             CountriesTextFile accessTextFile = new CountriesTextFile(countriesList);
             CountriesApp menu = new CountriesApp(accessTextFile);
 
-
             bool keepPlaying = true;
 
             while (keepPlaying)
             {
                 menu.CountriesMenu();
-
             }
 
 

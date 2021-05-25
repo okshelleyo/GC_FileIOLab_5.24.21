@@ -11,18 +11,19 @@ namespace GC_Lab16CountriesIO_5._24._21
         //another method that allows you to write a list of countries to a file
         //allow you to store the countries text file 
 
-        public List<Countries> CountriesList = new List<Countries>();
+        public List<Countries> CountriesList;
 
         public CountriesTextFile (List<Countries> countriesList)
         {
             CountriesList = countriesList;
-            CreateCountriesList();                       
+            CreateCountriesList(CountriesList);
+                              
         }
 
-        public void CreateCountriesList()
+        public void CreateCountriesList(List<Countries> countries)
         {
             StreamWriter writer = new StreamWriter("../../../countries.txt");
-            foreach (Countries country in CountriesList)
+            foreach (Countries country in countries)
             {
                 writer.WriteLine($"{country.Name}|{country.Bird}|{country.Capitals}|{country.Export}|");
             }
@@ -31,7 +32,7 @@ namespace GC_Lab16CountriesIO_5._24._21
 
         public void PrintCountriesList() //option 1 
         {
-
+            List<Countries> countries = new List<Countries>();
             StreamReader reader = new StreamReader("../../../countries.txt");
             
             string line = reader.ReadLine();
@@ -40,15 +41,14 @@ namespace GC_Lab16CountriesIO_5._24._21
             {
                string [] propertiesSplit = line.Split('|');
 
-                CountriesList.Add(new Countries(propertiesSplit[0], propertiesSplit[1], propertiesSplit[2], propertiesSplit[3]));
+                countries.Add(new Countries(propertiesSplit[0], propertiesSplit[1], propertiesSplit[2], propertiesSplit[3]));
                 line = reader.ReadLine();
             }
             reader.Close();
 
-            foreach (Countries country in CountriesList)
+            foreach (Countries country in countries)
             {
                 Console.WriteLine(country);
-                Console.WriteLine();
             }
 
         }
@@ -56,7 +56,7 @@ namespace GC_Lab16CountriesIO_5._24._21
 
         public void AddToCountriesList() // option 2
         {
-
+            
             string[] country = new string[4];
             
             Console.WriteLine("Let's add a country to the list");
@@ -71,11 +71,15 @@ namespace GC_Lab16CountriesIO_5._24._21
             string export = Console.ReadLine();
             Console.WriteLine();
 
+            Countries newCountry = new Countries(name, bird, capital, export);
+            CountriesList.Add(newCountry);
+
+
             using (StreamWriter writer = File.AppendText("../../../countries.txt"))
             {
                 writer.WriteLine($"{name}|{bird}|{capital}|{export}|");
             }
-            
+
             Console.WriteLine("Country has been added!");
             Console.WriteLine();
         }

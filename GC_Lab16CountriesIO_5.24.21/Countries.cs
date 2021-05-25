@@ -39,7 +39,7 @@ namespace GC_Lab16CountriesIO_5._24._21
 
         public override string ToString()
         {
-            string returnStatement = $"Country: {Name}\nNational Bird: {Bird}\nCapital: {Capitals}\nBiggest Export: {Export}\n";
+            string returnStatement = $"Country: {Name}\nNational Bird: {Bird}\nCapital: {Capitals}\nMajor Export: {Export}\n";
             return returnStatement;
         }
 
